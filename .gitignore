@@ -1,0 +1,7 @@
+bin/
+include/
+lib/
+.Python
+db.sqlite3
+pip-selfcheck.json
+DS_Store
